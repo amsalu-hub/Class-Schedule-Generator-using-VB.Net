@@ -1,0 +1,155 @@
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Scheduler.xml
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\ResolveAssemblyReference.cache
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.CourseOffering.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.CourseRegistration.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ExamRegistration.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.RoomRegistration.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.SectionRegistration.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.TeacherRegistration.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.Resources.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewClassSchedule.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.vbproj.GenerateResource.Cache
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.xml
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedule.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.LoginForm.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.SchedulerMDIParent.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewCourseList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewRoomList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewSectionList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewTeacherList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.CreateUser.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewUserList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.AboutBox.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.ViewCourseOfferredList.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedulelab.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\office.dll
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\office.xml
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.vbproj.ResolveComReference.cache
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.SplashScreen.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\obj\Debug\Scheduler.frmInsertSerial.resources
+D:\amsalu docs\my docs\SchedulerSystem\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe.config
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.ResolveComReference.cache
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.exe
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.xml
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.pdb
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\DB\InstitutionalLevelScheduler.sdf
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.pdb
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.xml
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\office.dll
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\office.xml
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\ResolveAssemblyReference.cache
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.AboutBox.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseOffering.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseRegistration.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CreateUser.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ExamRegistration.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.frmInsertSerial.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedule.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedulelab.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.LoginForm.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.RoomRegistration.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SchedulerMDIParent.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SectionRegistration.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SplashScreen.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.TeacherRegistration.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.Resources.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewClassSchedule.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseOfferredList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewRoomList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewSectionList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewTeacherList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewUserList.resources
+D:\amsalu\docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.GenerateResource.Cache
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe.config
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.ResolveComReference.cache
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.exe
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.xml
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.pdb
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\DB\InstitutionalLevelScheduler.sdf
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.pdb
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.xml
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\office.dll
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\office.xml
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\ResolveAssemblyReference.cache
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.AboutBox.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseOffering.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CreateUser.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ExamRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.frmInsertSerial.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedule.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedulelab.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.LoginForm.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.RoomRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SchedulerMDIParent.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SectionRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SplashScreen.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.TeacherRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.Resources.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewClassSchedule.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseOfferredList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewRoomList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewSectionList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewTeacherList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewUserList.resources
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.GenerateResource.Cache
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Personal Docs\Accademic docs\VBProjects\InstitutonalLevelScheduler\Scheduler\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe.config
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.ResolveComReference.cache
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.exe
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.xml
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.pdb
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\DB\InstitutionalLevelScheduler.sdf
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.exe
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.pdb
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Scheduler.xml
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\office.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\office.xml
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\ResolveAssemblyReference.cache
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.AboutBox.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseOffering.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CourseRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.CreateUser.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ExamRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.frmInsertSerial.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedule.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.GenerateSchedulelab.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.LoginForm.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.RoomRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SchedulerMDIParent.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SectionRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.SplashScreen.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.TeacherRegistration.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.Resources.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewClassSchedule.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewCourseOfferredList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewRoomList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewSectionList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewTeacherList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.ViewUserList.resources
+E:\Personal Docs\Accademic docs\VBProjects\LAN Based Vr InstitutonalLevelScheduler\Scheduler\obj\Debug\Scheduler.vbproj.GenerateResource.Cache
